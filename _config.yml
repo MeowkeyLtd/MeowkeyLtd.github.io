@@ -4,7 +4,7 @@ bio:                'Meowkey, cat & monkey who happen to be engineer & scientist
 description:        'Meowkey provides consulting and development services in areas of computer science, engineering and machine learning.'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/meowkey_logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
